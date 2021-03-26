@@ -15,8 +15,8 @@
             <ul>
               <li><a href="#">Home page</a></li>
               <li><a href="#">Information</a></li>
-              <li><a href="#">Items</a></li>
-              <li><a href="#">Amount</a></li>
+              <li><a href="login.html">Login</a></li>
+              <li><a href="Register.html">Register</a></li>
               <li><a href="#">Other</a></li>
             </ul>
           </nav>
